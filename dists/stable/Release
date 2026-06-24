@@ -1,0 +1,23 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Wed, 24 Jun 2026 18:07:21 +0000
+Label: Super-Linux Packages
+Origin: Super-Linux
+Suite: stable
+MD5Sum:
+ 793a86c80ab17e0d42d2cea36c68d517              155 Release
+ 48c8c357e9d0294cc1512bb76ce383ee             1784 main/binary-amd64/Packages
+ 448508900aab03ad71f7cacac0c489c9              875 main/binary-amd64/Packages.gz
+SHA1:
+ 51e168ad62c501ba7107eac7109da9e4b2f57836              155 Release
+ 999529e01099808bf82af96906dca4111c5e3c77             1784 main/binary-amd64/Packages
+ 3ee0f7247c9709fc8d6aa06a322a66e38a8ace2c              875 main/binary-amd64/Packages.gz
+SHA256:
+ 92e2c38aaa15bd7dd749d768ebf3cb20f1c6648419eff6226c4cc1ada8173323              155 Release
+ 26c826ad2865f3f5dfe73ecab6fe1f7e3a958fd6674f0b23ad85cf280541b6e9             1784 main/binary-amd64/Packages
+ efc5d77afbddc9e08f0cf6206bbaad967e8b304161de7b0efb02dceb618c0a10              875 main/binary-amd64/Packages.gz
+SHA512:
+ 494ca00d9b28275ff758325cbd6aad408dfb05db704b9f53cc4ce37a57a65550f94d6a037bab8e5ecb0963e0bd4c393f5c612db10f6bc62d831decd432ea0460              155 Release
+ 7e98f8842692a23add15f1cad9fb54917f0112c8c87c737b3882681665e3bf8ca542553bf6fcdf5b09c8e22851b3de63d00eeef2e529b4b076bd133a3c90ab95             1784 main/binary-amd64/Packages
+ 7dd5586a07c79d208f76dd97fa22afce6ca264006d8918e3ecd751995027383291a58a02009ba82711c96e0127a69e6c20b2d7ea718f0c6d58fe1afd0c19f052              875 main/binary-amd64/Packages.gz

@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Wed, 24 Jun 2026 18:07:21 +0000
+Label: Super-Linux Packages
+Origin: Super-Linux
+Suite: stable
+MD5Sum:
+ 793a86c80ab17e0d42d2cea36c68d517              155 Release
+ 48c8c357e9d0294cc1512bb76ce383ee             1784 main/binary-amd64/Packages
+ 448508900aab03ad71f7cacac0c489c9              875 main/binary-amd64/Packages.gz
+SHA1:
+ 51e168ad62c501ba7107eac7109da9e4b2f57836              155 Release
+ 999529e01099808bf82af96906dca4111c5e3c77             1784 main/binary-amd64/Packages
+ 3ee0f7247c9709fc8d6aa06a322a66e38a8ace2c              875 main/binary-amd64/Packages.gz
+SHA256:
+ 92e2c38aaa15bd7dd749d768ebf3cb20f1c6648419eff6226c4cc1ada8173323              155 Release
+ 26c826ad2865f3f5dfe73ecab6fe1f7e3a958fd6674f0b23ad85cf280541b6e9             1784 main/binary-amd64/Packages
+ efc5d77afbddc9e08f0cf6206bbaad967e8b304161de7b0efb02dceb618c0a10              875 main/binary-amd64/Packages.gz
+SHA512:
+ 494ca00d9b28275ff758325cbd6aad408dfb05db704b9f53cc4ce37a57a65550f94d6a037bab8e5ecb0963e0bd4c393f5c612db10f6bc62d831decd432ea0460              155 Release
+ 7e98f8842692a23add15f1cad9fb54917f0112c8c87c737b3882681665e3bf8ca542553bf6fcdf5b09c8e22851b3de63d00eeef2e529b4b076bd133a3c90ab95             1784 main/binary-amd64/Packages
+ 7dd5586a07c79d208f76dd97fa22afce6ca264006d8918e3ecd751995027383291a58a02009ba82711c96e0127a69e6c20b2d7ea718f0c6d58fe1afd0c19f052              875 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEsMbHu6w4DBYjCq72ro+bix5Lb00FAmo8HU0ACgkQro+bix5L
+b02x9xAAgm+lzUztZ2LgblUQjiG+XKzuacOG3Y323T0JVybc0B13Y6dxd5ZYjQyL
+X9+rCVBbHMbZNhAZuKCdLAqDogMiARykp1sJCdIEznoXik5o2U4qRKD5bExQE+pp
+KJ9AKV3JpSRU5KuxtI8jgzDLLfyJfiqg29Foj+/jZFGv31tAEwnZfyqOPAwZPvO3
+vCAlfJ+BOtbuXsRLNtryzJSq0p4abGBSrSff/+vNibqXVnLeRFSHZ3rGpIYlO3q7
+ZpyLHghzwVjR9Ax/Jyr4Hgo5W8pcxrjH/nA0PEw99su5x66XG2cbupP7MzSJHMhA
+bv/C329eTVIt8I5f3bvgUpb+xdUdsAMfaEJ+ikCd28VKfUuYisXkpk4YZkvVgKfp
+gFiQiVI+17bPvmJw/YFNEUvR0HT7FI9wiiE53aGz8LgJitIk2SFyv1+hjTv9+iQp
+PDcsO5yYM0hYVln42E+elUZV7UEAqUuItKrRdkeH+33l3+XbKyBNBGdfNpHrU1JN
+k8gni+EyazOk9pr3DOMUiS1Mfj1RhipfE1ceGyAiNEhke6mpcVQg6S5gZ63lJg/x
+a4hP1clD5v6hfIYj0B/u3jPBG6s8TCjc03DBQThtxxLCbUTtoIHhHVprZe3mL7Wk
+S10baU3bAPBy+S+nadFUV78pJ8J1sX1FUCKUCIxM6MkOxDKknu4=
+=ulTO
+-----END PGP SIGNATURE-----
